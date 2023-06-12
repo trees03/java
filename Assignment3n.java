@@ -7,7 +7,7 @@ class Dish
 {
 	public int op;
 	public String name;
-	public String[] d={"Biriyani","Masala Dosa","oodles","pancake"};
+	public String[] d={"Biriyani","Masala Dosa","Noodles","pancake"};
 	int n=d.length;
 	public void print(){
 	
